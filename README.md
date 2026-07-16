@@ -1,4 +1,4 @@
-# STM32F401CCU6 LED Blink Project 🚀
+# STM32F401CCU6 LED Blink Project
 
 My first STM32 project using the STM32F401CCU6 Black Pill board and ST-LINK debugger.
 
