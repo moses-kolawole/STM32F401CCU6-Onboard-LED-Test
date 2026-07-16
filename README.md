@@ -26,7 +26,7 @@ Configure GPIO and blink the onboard LED connected to **PC13**.
 [Click here to access the full project code](code)
 
 ## Project Images
-![Click here to check out the project images](images/IMG_20260716_173105_374)
+![Click here to check out the project images](images/IMG_20260716_173105_374.jpg)
 
 ## Project Demo Video
 
